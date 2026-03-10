@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: JAYANTH S S</h3>
-<h3>Register Number:  212224050014  </h3>
+<h3>Name: G NAGA GOWTHAM</h3>
+<h3>Register Number:  212224060086  </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
